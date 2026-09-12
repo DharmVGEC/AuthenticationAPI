@@ -1,4 +1,4 @@
 # AuthenticationAPI
 Authentication API 
 
-**Octopus Deploy Project** : SpendlyAPIFargate
+**Octopus Deploy Project** : AuthenticationAPIFargate
